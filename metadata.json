@@ -1,0 +1,6 @@
+{
+  "name": "Aegis — Verifiable Autonomy for Wealth Management",
+  "description": "Verifiable autonomy layer for regulated financial agents in wealth management. Orchestrates multi-agent onboarding and AML investigation with deterministic policy gates, OpenTelemetry telemetry, and cryptographic hash chain receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
